@@ -174,7 +174,22 @@ public final class Settings {
             Item.getItemFromBlock(Blocks.DIRT),
             Item.getItemFromBlock(Blocks.COBBLESTONE),
             Item.getItemFromBlock(Blocks.NETHERRACK),
-            Item.getItemFromBlock(Blocks.STONE)
+            Item.getItemFromBlock(Blocks.STONE),
+            Item.getItemFromBlock(Blocks.ORANGEWOOL),
+            Item.getItemFromBlock(Blocks.MAGENTAWOOL),
+            Item.getItemFromBlock(Blocks.LIGHTBLUEWOOL),
+            Item.getItemFromBlock(Blocks.YELLOWWOOL),
+            Item.getItemFromBlock(Blocks.LIMEWOOL),
+            Item.getItemFromBlock(Blocks.PINKWOOL),
+            Item.getItemFromBlock(Blocks.GREYWOOL),
+            Item.getItemFromBlock(Blocks.LIGHTGREYWOOL),
+            Item.getItemFromBlock(Blocks.CYANWOOL),
+            Item.getItemFromBlock(Blocks.PURPLEWOOL),
+            Item.getItemFromBlock(Blocks.BLACKWOOL),
+            Item.getItemFromBlock(Blocks.REDWOOL),
+            Item.getItemFromBlock(Blocks.GREENWOOL),
+            Item.getItemFromBlock(Blocks.BROWNWOOL),
+            Item.getItemFromBlock(Blocks.BLUEWOOL)
     )));
 
     /**
